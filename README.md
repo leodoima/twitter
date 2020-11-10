@@ -2,7 +2,7 @@
 Aplicando métodos de flex box na criação do layout do Twitter
 
 <h1>
-  <img src="/assets/twitter.png" />
+  <img src="/assets/twitter-layout.png" />
 </h1>
 
 ### Sobre
